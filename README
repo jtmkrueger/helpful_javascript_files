@@ -1,0 +1,14 @@
+This is a collection of javascript files that I use frequently and almost always add to new projects.  The included files are:
+
+1.)css_browser_selector.js
+  -this is great for making rules like:
+    .ie7 #form_box
+  -very useful!
+  
+2.)input-placeholder-text.js
+  -only webkit browsers allow placeholder text for form elements.  This turns it into a javascript method.
+  -include the classes shown at the top of the javascript file!
+  
+3.)my_functions.js
+  -These are functions that I have written to do specific things I reuse:
+    +if there is no .getElementsByClassName, create the function(pull it togeather ie!)
