@@ -11,8 +11,12 @@ This is a collection of javascript files that I use frequently and almost always
   
 3.)my_functions.js
   -These are functions that I have written to do specific things I reuse:
-    +if there is no .getElementsByClassName, create the function(pull it togeather ie!)
+    +if there is no .getElementsByClassName, create the function(pull it together ie!)
+    
+4.)onDOMReady
+  -now all browsers can take care of the onDOMReady function. Very helpful when noLoad isn't the right solution.
     
 Thanks to the people who make some of these great javascripts!
 - Rafael Lima (http://rafael.adm.br)
 - Ryan Fait (http://www.ryanfait.com)
+- Ryan Morr (http://ryanmorr.com)
